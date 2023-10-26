@@ -1,0 +1,5 @@
+{
+  "/page": "app/page.js",
+  "/resume-parser/page": "app/resume-parser/page.js",
+  "/resume-import/page": "app/resume-import/page.js"
+}
